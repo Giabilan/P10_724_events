@@ -15,7 +15,7 @@
       opacity: 0;
     }
     &--display {
-      animation: slide 1s forwards;
+      animation: slide 0s forwards;
     }
     &__descriptionContainer {
       position: absolute;
@@ -87,3 +87,4 @@
     transform: translateX(0%);
   }
 }
+
